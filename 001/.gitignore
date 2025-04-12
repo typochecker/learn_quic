@@ -1,2 +1,3 @@
 .venv
-./server/*.pem
+./server/server_cert.pem
+./server/server_key.pem
