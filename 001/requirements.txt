@@ -1,0 +1,4 @@
+aioquic>=0.9.19
+cryptography>=36.0.0
+asyncio
+certifi
